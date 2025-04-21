@@ -162,18 +162,3 @@ def mostrar_boas_praticas():
         with open(TXT_FILE, "r", encoding="utf-8") as f:
             print(f.read())
             print("---\n")
-
-
-# In[3]:
-
-
-car = {
-  "brand": "Ford",
-  "model": "Mustang",
-  "year": 1964
-}
-
-x = car.items()
-
-print(x)
-
