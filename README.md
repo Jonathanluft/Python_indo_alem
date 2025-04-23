@@ -10,6 +10,7 @@
 Cap 6 - Python e além
 
 ## Nome do grupo
+21
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/company/inova-fusca">Guilherme Campos Hermanowski </a>
